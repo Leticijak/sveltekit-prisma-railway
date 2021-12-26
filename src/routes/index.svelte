@@ -39,6 +39,7 @@
 		cursor: pointer;
 		border: none;
 	}
+	/* this is global for this file */
 	.todos :global(input) {
 		border: 1px solid transparent;
 	}
@@ -47,4 +48,5 @@
 		border: 1px solid #f7906e !important;
 		outline: none;
 	}
+	/* this is global for this file */
 </style>
